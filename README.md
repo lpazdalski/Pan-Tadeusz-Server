@@ -9,12 +9,12 @@ Server sending with the requested interval selected books of Pan Tadeusz to clie
 
 **Using readme**
 
-./server -k <pan_tadeusz_path> -p <bulletin_Board_Path>
-./client -r < > -f <way of transfer file> -x < > -o < > -s < >
-- r <realtime signal number>
-- f s - split into words
-- f l - split into letters
-- f - split into lines
-- x  <pan_tadeusz volume number>
-- o <interval in 1/64 second> 
-- s <server PID>
+./server -k <pan_tadeusz_path> -p <bulletin_Board_Path> <br />
+./client -r < > -f <way of transfer file> -x < > -o < > -s < > <br />
+-r <realtime signal number> <br />
+-f s - split into words <br />
+-f l - split into letters <br />
+-f - split into lines <br />
+-x  <pan_tadeusz volume number> <br />
+-o <interval in 1/64 second> <br />
+-s <server PID> <br />
